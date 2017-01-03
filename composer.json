@@ -1,0 +1,17 @@
+{
+    "name": "philvanbwg/opensans",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+    	 "component": {
+        	 "styles": [
+                       "*.css"
+                  ],
+                  "files": [
+                       "fonts/*/*"
+                  ]
+         }
+    }
+}
